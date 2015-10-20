@@ -15,7 +15,10 @@ import java.util.Iterator;
 /**
  * A class to handle the spawning of coins and all other coin-related functionality
  */
-public class CoinPath {
+public class
+
+
+        CoinPath {
     public static final int COIN_WIDTH = 40;
     public static final int COIN_HEIGHT = 40;
     private Array<Rectangle> coins;
